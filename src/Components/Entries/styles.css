@@ -1,0 +1,35 @@
+.entries-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+}
+
+.entries-heading{
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.entries-search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 37px;
+    gap: 5px;
+}
+.entries-search button{
+    width: 13%;
+    height: 100%;
+    background: none;
+    border: none;
+}
+.entries-search button svg{
+    width: 100%;
+    height: 100%;
+}
+.entries-search input{
+    height: 100%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}

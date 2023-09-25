@@ -1,0 +1,29 @@
+.table-div{
+    
+}
+.table-div table{
+    width: 100%;
+}
+.table-div table thead{
+    width: 100%;
+}
+.table-div table thead tr{
+
+}
+.table-div table thead th{
+    border: 1px solid #a29b9b;
+    background-color: #20B2AA;
+    padding: 7px;
+    font-weight: 600;
+    width: 20%;
+}
+.table-div table tbody{
+
+}
+.table-div table tbody tr{
+
+}
+.table-div table tbody td{
+    border: 1px solid #a29b9b;
+    text-align: center;
+}
